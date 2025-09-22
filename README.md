@@ -15,6 +15,7 @@ An interactive web-based tool for visualizing the mathematical convolution opera
 - **Professional UI**: Modern gradient design with smooth animations
 
 ## 📊 Screenshots
+<img width="1475" height="791" alt="image" src="https://github.com/user-attachments/assets/cb981b47-db5b-40d6-afdd-22a84aae44b8" />
 
 
 Made with ❤️ from NiceGuy
